@@ -6,8 +6,6 @@
 
  (function ( $ ) {
 
-   $.fn.pop = [].pop;
-
    $.fn.redact = function ( options ) {
      var settings, // The Settings object
      style; // The style to set on each letter
