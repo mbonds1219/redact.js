@@ -1,0 +1,11 @@
+{
+  "name": "Redactjs",
+  "version": "1.0.0",
+  "description": "Redact.js is a jQuery plugin to redact information in your html with jquery.",
+  "main": "redact.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
